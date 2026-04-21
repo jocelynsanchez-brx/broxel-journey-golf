@@ -35,7 +35,7 @@ const App = () => {
         emailSubject:
           "Save the date: Broxel & Google Cloud Invitational 2026 ⛳",
         emailBody:
-          "Este año, el torneo se vive en grande. En el marco del Mundial Tech 2026, prepárate para una experiencia donde el juego, la tecnología y el networking se encuentran en el green. Muy pronto recibirás tu invitación con todos los detalles para confirmar tu participación.\n\n--- \n🔗 [LIGA AL DISEÑO FINAL EN HTML]",
+          "Este año, el torneo se vive en grande. En el marco del Mundial Tech 2026, prepárate para una experiencia donde el juego, la tecnología y el networking se encuentran en el green. Muy pronto recibirás tu invitación con todos los detalles para confirmar tu participación.\n\n--- \n🔗 [LIGA AL DISEÑO FINAL EN HTML TBD]",
         details: "Mensaje ya enviado el viernes pasado.",
       },
       {
